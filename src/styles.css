@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+}
+.container {
+  max-width: 600px;
+  margin-top: 10px;
+}
+.header {
+  padding: 5px !important;
+}
+.purchase-card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 1em;
+}
+
+.header {
+  width: 100%;
+  padding: 2%;
+  background-color: #007bff;
+  color: white;
+  text-align: center;
+}
